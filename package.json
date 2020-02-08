@@ -22,7 +22,7 @@
     }
   ],
   "dependencies": {
-    "node.flow" : "1.2.3"
+    "@gitbook-ng/node.flow" : "1.2.4"
   },
   "repository"  : {
     "type": "git",
