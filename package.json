@@ -1,6 +1,6 @@
 {
-  "name"       : "rmdir",
-  "version"    : "1.2.0",
+  "name"       : "@gitbook-ng/rmdir",
+  "version"    : "1.2.1",
   "description": "Remove all files in the given path recursively",
   "keywords"   : [
     "remove", "remove files", "remove all files", "remove path",
@@ -26,7 +26,7 @@
   },
   "repository"  : {
     "type": "git",
-    "url" : "https://github.com/dreamerslab/node.rmdir.git"
+    "url" : "https://github.com/gitbook-ng/node.rmdir.git"
   },
   "main"    : "index",
   "engines" : [ "node >= 0.8.0" ],
